@@ -5,10 +5,11 @@
 #### Prepare data(only COCO)
 
 * Text: ([Download](https://cs.stanford.edu/people/karpathy/deepimagesent/)） 
-
-* image
-    * raw images([Download](https://cocodataset.org/#download))
+* Image
+    * Raw images([Download](https://cocodataset.org/#download))
     * Buttom-up Attention([Download](https://github.com/peteanderson80/bottom-up-attention))
+* Tools
+    * Coco eval [coco-caption](https://github.com/tylin/coco-caption)(pull it in this repository)
 
 ---
 
